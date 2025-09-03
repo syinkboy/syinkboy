@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **Discord: syink**
 
+- 🟦 If you ever need a discord bot made, conntact me.  
+
 - ⚡ Fun fact **I love being outside in the snow during winter, and I enjoy meeting new people who like the same things as I do.**
 
 <h3 align="left">Connect with me:</h3>
