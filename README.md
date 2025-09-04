@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **Discord: syink**
 
-- 🟦 If you ever need a discord bot made, conntact me.  
+- 🟦 If you ever need a discord bot made, conntact me.
+
+- I am actively learning c++(View my ATM repository to view my progress) 
 
 - ⚡ Fun fact **I love being outside in the snow during winter, and I enjoy meeting new people who like the same things as I do.**
 
